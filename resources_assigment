@@ -1,0 +1,38 @@
+#RESOURCES ASSIGMENT
+
+ ##Salomon Garcia and  Matias Fernandez
+  
+    if option == "1":
+        
+        wheat = 200
+        firewood = 200
+        gold = 150  
+        spent_wheat = 10
+        spent_firewood = 5
+        spent_gold = 4
+      
+
+    elif option == "2":
+        
+        wheat = 150
+        firewood = 150
+        gold = 100
+        spent_wheat = 15
+        spent_firewood = 6
+        spent_gold = 8
+      
+
+    elif option == "3":
+        
+        wheat = 80
+        firewood = 60
+        gold = 40  
+        spent_wheat = 20
+        spent_firewood = 8
+        spent_gold = 10
+ 
+    else:
+        print("Invalid option...")
+        wheat = 0
+        firewood = 0
+        gold = 0
