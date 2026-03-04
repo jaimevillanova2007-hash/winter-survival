@@ -1,0 +1,8 @@
+##Juan Bolaño y Randy Pérez
+
+if option == "4" :
+    print("Exit The Game")
+else:
+    wheat = 0
+    firewood = 0
+    gold = 0  
