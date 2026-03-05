@@ -1,18 +1,12 @@
-# Winter Survival
-**Autores:** Valeria Martinez, Valeria Bastidas, Juan Bolaños, Randy Pérez, Salomon Garcia, Mathias Fernandez, Andrés Cortés, Alejandro Villanueva
+# Medieval Kingdom
+
+**Authors:** Valeria Martinez, Valeria Bastidas, Juan Bolaños, Randy Pérez, Salomon Garcia, Mathias Fernandez, Andrés Cortés, Alejandro Villanueva
 
 ---
 
-## Descripción
+## Description
 
-**Medieval Kingdom** es un **juego de simulación de estrategia en consola** donde el jugador debe administrar los recursos de un reino (trigo, leña y oro) y sobrevivir a eventos aleatorios durante varios días.  
+**Medieval Kingdom** is a **console strategy simulation game** where the player must manage the resources of a kingdom (wheat, firewood, and gold) and survive random events over several days.  
 
-El juego permite elegir entre tres niveles de dificultad y simula eventos como hambre, asaltos y incendios que afectan los recursos del jugador. El objetivo es **mantener el reino vivo el mayor tiempo posible**.
+The game allows you to choose between three difficulty levels and simulates events such as famine, assaults, and fires that affect the player's resources. The goal is to **keep the kingdom alive as long as possible**.
 
----
-
-## Cómo jugar
-
-1. Ejecuta el archivo Python:
-
-```bash
